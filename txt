@@ -1,0 +1,5 @@
+it allows us to do the same like dom in javascript
+
+to get certain elements,  using class to interact with the websites  some methods
+
+finder finds the class, id , date_num
